@@ -4,6 +4,7 @@ title: media
 permalink: /media/
 nav: true
 nav_order: 4
+search_exclude: true
 ---
 
 ## Personal Profiles
