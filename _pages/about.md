@@ -31,7 +31,7 @@ You can find my CV <a href="/assets/pdf/CV.pdf">here</a>.
 <h2>Key Findings</h2>
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
-  <p style="flex: 1;">The key properties of the language network — its topography, left-hemispheric lateralization, selectivity for language, and functional connectivity — are robust to cross-linguistic variation across 45 languages and 12 language families. <a href="https://doi.org/10.1038/s41593-022-01114-5"><em>Malik-Moraleda et al., 2022, Nature Neuroscience</em></a></p>
+  <p style="flex: 1;">The key properties of the language network — its topography, left-hemispheric lateralization, selectivity for language, and functional connectivity — are robust to cross-linguistic variation across 45 languages and 12 language families. <a href="https://doi.org/10.1038/s41593-022-01114-5"><em>Malik-Moraleda, Ayyash et al., 2022, Nature Neuroscience</em></a></p>
   <img src="/assets/img/publication_preview/nature2022.jpg" alt="45 languages study" style="width: 120px; height: auto;"/>
 </div>
 
