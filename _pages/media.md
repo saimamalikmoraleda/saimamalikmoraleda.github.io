@@ -39,4 +39,4 @@ search_exclude: true
 - **2023** [The Atlantic — "Hollywood's love affair with fictional languages"](https://www.theatlantic.com/technology/archive/2022/12/avatar-2-movie-navi-constructed-language/672616/)
 - **2022** [Rolling Stone — "Meet the real-life Na'vi community"](https://www.rollingstone.com/tv-movies/tv-movie-features/avatar-the-way-of-water-real-life-navi-language-discord-james-cameron-depression-1234649601/)
 - **2022** [Boston Globe (Editorial Cartoon) — "Aliens ate my brain"](https://www.bostonglobe.com/2022/10/28/opinion/aliens-ate-my-brain/)
-- 
+
