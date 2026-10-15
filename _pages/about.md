@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Researcher, <a href='https://evlab.mit.edu'>EvLab</a> & <a href='http://tedlab.mit.edu'>TedLab</a>, MIT
+subtitle: Postdoctoral Researcher, MIT
 
 profile:
   align: right
